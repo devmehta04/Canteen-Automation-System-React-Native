@@ -1,10 +1,10 @@
-# Basic Expense Tracker
+# Canteen Automation System
 
-This is a simple mobile expense tracker made using React Native. It allows users to add, edit, and delete their expenses, as well as view a summary of their expenses.
+This is a simple mobile food ordering application made using React Native. It allows users to browse different food items, add them to their cart, and place an order.
 
 ## Requirements
 
-To run this expense tracker, you will need:
+To run this food ordering application, you will need:
 
 - Node.js and npm installed on your machine
 - Expo CLI installed globally (`npm install -g expo-cli`)
@@ -20,11 +20,11 @@ To run this expense tracker, you will need:
 
 ## Usage
 
-To use the expense tracker, follow these steps:
+To use the food ordering application, follow these steps:
 
 1. Open the app on your mobile device or emulator.
-2. Click the "Add Expense" button to add a new expense.
-3. Fill in the expense details and click "Save".
-4. To edit an existing expense, swipe left on the expense item and click "Edit".
-5. To delete an expense, swipe left on the expense item and click "Delete".
-6. To view a summary of your expenses, click the "Summary" button.
+2. Browse through the different food items available.
+3. Click on an item to view more details.
+4. Click the "Add to Cart" button to add the item to your cart.
+5. Click the "Cart" button to view your cart and place an order.
+6. Fill in your details and click "Place Order" to place your order.
